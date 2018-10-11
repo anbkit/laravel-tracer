@@ -3,6 +3,7 @@
     "description": "Trace route, controller, action..",
     "type": "library",
     "license": "MIT",
+    "version":"0.1",
     "authors": [
         {
             "name": "An Nguyen",
