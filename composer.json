@@ -1,0 +1,18 @@
+{
+    "name": "trongan/laravel-tracer",
+    "description": "Trace route, controller, action..",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "An Nguyen",
+            "email": "trongan@outlook.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+        "FuelCloud\\LaravelTracer\\": "src/"
+        }
+    }
+}
